@@ -1,0 +1,172 @@
+
+body{
+    margin: 10px;
+    font-family: "Hiragino Kaku Gothic ProN","メイリオ",sans-serif;
+    font-size: 14px;
+}
+
+img{
+    width: 200px;
+}
+
+header{
+    top:150px;
+    left:0px;
+    width:100%;
+    height:45px;
+    background-color: black;
+}
+
+form{ 
+    background-color: #fbfbfb;
+    border: 3px #ebebeb solid;
+    border-radius: 0;
+    width: 920px;
+}
+
+form div{
+    padding: 15px;
+}
+
+.text, textarea, dropbox{
+    border: 1px solid #dfdfdf;
+    padding: 5px;
+    color: #999;
+    background: #fff;
+}
+.sub{
+    display: inline-block;
+    border-radius: 5%;
+    font-size: 10pt;
+    text-align: center;
+    padding: 5px 5px;
+    background: #595959;
+    color: #ffffff;
+    line-height: 1em;
+    border: 2px solid #595959;
+    box-shadow: 1px 3px black;
+}
+
+.button{
+    box-shadow: none;
+    color: #595959;
+    background: #ffffff;
+}
+
+h1{
+    padding: .1em 0 0 .1em;
+    border-left: 5px solid black;
+    border-bottom: 1px solid black;
+    color: black;
+    font-weight: bold;
+    font-size: 25px;
+    width: 915px;
+}
+
+
+h2{ margin: 0 auto;
+    margin-top: 25px;
+    margin-bottom: 20px;
+    margin-left: 25px;
+    border-left: 4px solid red;
+    background-color: #fbfbfb;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-left: 10px;
+    width: 450px;
+    font-size: 20px;       
+}
+
+h3{
+    border-bottom: 1px solid #ebebeb;
+}
+
+.kiji{
+    margin-top: 15px;
+    background-color: #fbfbfb;
+    border: 3px #ebebeb solid;
+    border-radius: 0;
+    padding-left: 20px;
+    padding-bottom: 20px;
+    width: 900px;
+    text-align: left;
+}
+
+.date{
+    line-height: 3;
+    text-align: left;
+}
+
+
+.menu{
+    padding-left:10px;
+    color: white;
+    font-size:15px;
+    line-height:60px;
+}
+
+.menu li{
+    float: left;
+    list-style:none;
+    line-height: 45px;
+    padding-right:30px;
+    color:white;
+}
+
+main{
+    clear:both;
+}
+
+.main-container{
+    width: 95%;
+    margin:0 auto;
+    margin-top: 0px;
+    float: left;
+}
+
+.right{
+    float:left;
+    background-color:white;
+    width:70%;
+    height:800px;
+    margin-bottom:40px;
+}
+
+.left{
+    float:left;
+    background-color:white;
+    width:30%;
+    height:800px;
+    margin-bottom:40px;
+}
+
+h4{
+    padding: .1em 0 0 .1em;
+    border-bottom: 2px dotted #696969;
+    color: black;
+    font-weight: bold;
+    font-size: 25px;
+}
+
+.left_box1{
+    padding-left:0px;
+    color: black;
+    font-size:15px;
+    line-height:40px;
+}
+
+.left_box1 li{
+    list-style: none;
+}
+
+footer{
+    clear:left;
+    width:100%;
+    height:60px;
+    bottom: 0px;
+    left:0px;
+    background-color:black;
+    color:white;
+    text-align: center;
+    line-height:60px;
+}
